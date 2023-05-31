@@ -5,10 +5,6 @@
 - [Overview](#overview)
   - [The activity](#the-activity)
   - [Solution](#solution)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 
@@ -17,37 +13,14 @@
 
 ### The activity
 
-In this activity...
-
-Users should be able to:
-- [X] COMPLETED ACTION
-- [ ] NOT COMPLETED ACTION
+In this activity, it was a basic activity using a new calc function and using previous CSS property concepts.
 
 
 ### Solution
 
 - Solution URL: [My Solution](https://jennifer-464.github.io/web-dev-bootcamp/1-Photo-Blog)
 
-<img src="" height="800px"><br>
-<img src="" width="800px"><br>
-
-
-
-## My Process
-
-### Built with
-
-- LIST OF TOPICS
-
-
-### What I learned
-
-I learned....
-
-
-### Useful resources
-
-- [NAME OF SOURCE]() - Inform audience why it's a good resource and how it helped you
+<img src="./img/view-desktop.png" height="800px"><br>
 
 
 ## Author
