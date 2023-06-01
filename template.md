@@ -52,5 +52,5 @@ I learned....
 
 ## Author
 
-- LinkedIn - [Jennifer](https://www.linkedin.com/in/jelopezh/)
+- LinkedIn - [Jennifer](https://www.linkedin.com/in/jennifer464/)
 - Frontend Mentor - [@Jennifer-464](https://www.frontendmentor.io/profile/Jennifer-464)

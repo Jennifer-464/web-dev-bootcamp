@@ -25,5 +25,5 @@ In this activity, it was a basic activity using a new calc function and using pr
 
 ## Author
 
-- LinkedIn - [Jennifer](https://www.linkedin.com/in/jelopezh/)
+- LinkedIn - [Jennifer](https://www.linkedin.com/in/jennifer464/)
 - Frontend Mentor - [@Jennifer-464](https://www.frontendmentor.io/profile/Jennifer-464)
