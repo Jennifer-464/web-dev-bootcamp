@@ -25,9 +25,9 @@ CHALLENGE: I decided to give myself a challenge and figure out how the hamburger
 
 - Activity URL: [The Activity](https://jennifer-464.github.io/web-dev-bootcamp/3-MediaQuery-Practice)
 
-<img src="http://g.recordit.co/LHpSoFeieA.gif" width="800px"><br>
+<img src="http://g.recordit.co/LHpSoFeieA.gif" width="800px"><br><br>
 
-WITH CHALLENGE
+WITH CHALLENGE<br>
 <img src="http://g.recordit.co/omtaft8YJo.gif" width="800px"><br>
 
 
