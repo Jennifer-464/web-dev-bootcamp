@@ -18,12 +18,17 @@
 
 This activity was more of a practice. It was to learn about responsive design and how that's done through media queries.
 
+CHALLENGE: I decided to give myself a challenge and figure out how the hamburger menu is done. I had done it before, but it had always been by copy pasting and I wanted to attempt on my own. I successfully finished it although I didn't seem to get the menu to display smoothly. If anyone has any feedback, please send: jenniferlopezh0@gmail.com
+
 
 ### Solution
 
 - Activity URL: [The Activity](https://jennifer-464.github.io/web-dev-bootcamp/3-MediaQuery-Practice)
 
 <img src="http://g.recordit.co/LHpSoFeieA.gif" width="800px"><br>
+
+WITH CHALLENGE
+<img src="http://g.recordit.co/omtaft8YJo.gif" width="800px"><br>
 
 
 
@@ -32,6 +37,8 @@ This activity was more of a practice. It was to learn about responsive design an
 ### What I learned
 
 I was already familiar with media queries, but in the example given, the navigation bar was styled with only 3 properties. I learned that by default, the display value of a bullet point is list-item. Giving ul & li the values of display: inline overrides the default display value of bullet points and therefore the bullet points will disappear. A much easier way of setting up the navigation bar.
+
+CHALLENGE: With the challenge, I ended up mostly reviewing on transitions and z-indexes. The javascript was easy and I read up on readibility practices so that's why I limited the width to 75 characters per line.
 
 
 ### Useful resources
