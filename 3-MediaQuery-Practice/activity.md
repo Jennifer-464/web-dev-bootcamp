@@ -1,4 +1,4 @@
-# Udemy Bootcamp - TITLE OF ACTIVITY
+# Udemy Bootcamp - Responsive Nav
 
 ## Table of contents
 

@@ -26,8 +26,9 @@ Users should be able to:
 
 ### Solution
 
-- Solution URL: [My Solution]()
+- Solution URL: [My Solution](https://jennifer-464.github.io/web-dev-bootcamp/ ...)
 
+desktop & then mobile
 <img src="" height="800px"><br>
 <img src="" width="800px"><br>
 
@@ -54,3 +55,4 @@ I learned....
 
 - LinkedIn - [Jennifer](https://www.linkedin.com/in/jennifer464/)
 - Frontend Mentor - [@Jennifer-464](https://www.frontendmentor.io/profile/Jennifer-464)
+- Portfolio - [Jennifer](https://jennifer-464.github.io/portfolio-gc/)

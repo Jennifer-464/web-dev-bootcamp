@@ -13,7 +13,7 @@
 
 ### The activity
 
-In this activity, it was a basic activity using a new calc function and using previous CSS property concepts.
+In this activity, I used a new calc function and re-used previous CSS property concepts.
 
 
 ### Solution
