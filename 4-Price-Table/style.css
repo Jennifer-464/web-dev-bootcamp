@@ -1,0 +1,123 @@
+:root {
+    --gray: #888888;
+    --light-blue: #e1f1ff;
+    --blue1: #9dd1ff;
+    --blue2: #60a9ff;
+    --blue3: #48aaff;
+    --blue4: #269aff;
+    --blue5: #4394f4;
+    --blue6: #348EFE;
+    --dark-blue: #016FF9;
+}
+
+html {
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+body {
+    background-color: var(--blue2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.panel {
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px 25px;
+    width: 100%;
+    max-width: 960px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.pricing-plan {
+    border-bottom: 1px solid var(--light-blue);
+}
+
+.pricing-plan:nth-last-child() {
+    border-bottom: none;
+}
+
+.pricing-img {
+    margin-bottom: 25px;
+    width: 100%;
+}
+
+.pricing-header {
+    color: var(--gray);
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+.pricing-features {
+    margin: 50px 0 25px;
+    color: var(--dark-blue);
+}
+
+.pricing-features-item {
+    font-weight: 600;
+    letter-spacing: 1px;
+    font-size: 12px;
+    line-height: 1.5;
+    padding: 15px 0;
+    border-top: 1px solid var(--light-blue);
+}
+
+.pricing-features-item:last-child {
+    border-bottom: 1px solid var(--light-blue);
+}
+
+.pricing-price {
+    color: var(--dark-blue);
+    display: block;
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.pricing-button {
+    border: 1px solid var(--blue1);
+    border-radius: 10px;
+    color: var(--blue6);
+    display: inline-block;
+    padding: 15px 35px;
+    text-decoration: none;
+    margin: 25px 0;
+    transition: background-color 200ms ease-in-out;
+}
+
+.pricing-button:hover,
+.pricing-button:focus {
+    background-color: var(--light-blue);
+}
+
+.pricing-button.is-featured {
+    background-color: var(--blue3);
+    color: white;
+}
+
+.pricing-button.is-featured:hover,
+.pricing-button.is-featured:focus {
+    background-color: var(--blue4);
+    color: white;
+}
+
+@media (min-width: 768px) {
+    .panel {
+        flex-direction: row;
+    }
+
+    .pricing-plan {
+        border-bottom: none;
+        border-right: 1px solid var(--light-blue);
+        padding: 25px 50px;
+    }
+
+    .pricing-plan:last-child {
+        border-right: none;
+    }
+}
